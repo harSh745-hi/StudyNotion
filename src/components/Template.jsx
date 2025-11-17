@@ -1,5 +1,5 @@
 import React from "react";
-import frame from "../assets/frame.png";
+import frame from "../assests/frame.png";
 import SignupForm from "./SignupForm.jsx";
 import LoginForm from "./LoginForm.jsx";
 import { FcGoogle } from "react-icons/fc";
