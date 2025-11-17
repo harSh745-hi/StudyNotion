@@ -1,5 +1,5 @@
 import React from 'react'
-import loginImg from "../assets/login.png";
+import loginImg from "../assests/login.png";
 import Template from './Template';
 
 function Login({ setIsLoggedIn }) {
