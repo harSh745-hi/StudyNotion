@@ -1,10 +1,10 @@
 import "./App.css";
-import Navbar from "./Components/Navbar";
-import Login from "./Components/Login";
-import Home from "./Components/Home.jsx";
-import Signup from "./Components/Signup";
-import Dashboard from "./Components/Dashboard";
-import PrivateRoute from "./Components/PrivateRoute";
+import Navbar from "./components/Navbar";
+import Login from "./components/Login";
+import Home from "./components/Home.jsx";
+import Signup from "./components/Signup";
+import Dashboard from "./components/Dashboard";
+import PrivateRoute from "./components/PrivateRoute";
 import { Route, Routes } from "react-router-dom";
 import React, { useState } from "react";
 
