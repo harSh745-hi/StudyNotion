@@ -1,5 +1,5 @@
 import React from 'react'
-import signupImg from "../assets/signup.png";
+import signupImg from "../assests/signup.png";
 import Template from './Template';
 
 
